@@ -20,7 +20,7 @@ public class MainActivity extends FragmentActivity {
         fragmentTransaction.replace(R.id.fragment, new FragmentOne());
         fragmentTransaction.commit();
 
-
+        //TODO 第二次
     }
 
 
